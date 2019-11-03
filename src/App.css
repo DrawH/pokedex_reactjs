@@ -1,0 +1,13 @@
+.navbar {
+  background-color: red !important;
+}
+
+.App {
+  padding-top: 4rem;
+  min-height: 100vh;
+}
+
+.container {
+  min-height: 100vh;
+  background-color: #fff;
+}
